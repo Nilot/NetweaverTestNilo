@@ -60,7 +60,7 @@ module.exports = function(grunt) {
                 options: {
                     ui5: {
                         package: '$TMP',
-                        bspcontainer: 'Z_TEST_UI5_ADV',
+                        bspcontainer: 'GitUI5RepoTest',
                         bspcontainer_text: 'Test Grunt UI5 upload',
                         calc_appindex : true // Clear Cache
                     },
